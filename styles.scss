@@ -1,0 +1,38 @@
+$primary-color: #ffcc00;
+
+body {
+  display: flex;
+  font: 100% fontstack('Consolas');
+  color: $primary-color;
+  background: rgb(1,0,0);
+}
+
+body .container {
+  border: 5px solid   blue;
+  background: rgb(100,200,50);
+  color: #fff;
+  padding: 10px;
+  margin: 40px auto;
+  text-align: center;
+  border-radius: 5px;
+}
+
+body .container h1 {
+  color: #fffb00;
+}
+
+body .container h2 {
+  color: #ad00ff;
+}
+
+body .container h3 {
+  color: #ff0000;
+}
+
+body .container h4 {
+  background: rgba(100,200,50, 0.1);
+}
+
+body .container h5 {
+  color: #555;
+}

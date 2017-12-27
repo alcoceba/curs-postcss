@@ -1,0 +1,26 @@
+{
+  "name": "curs-post-css",
+  "version": "1.0.0",
+  "description": "Curs PostCSS Openwebminars.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manel Alcoceba <manelalcoceba@gmail.com> (http://malcoceba.cat)",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "browser-sync": "^2.21.0",
+    "csswring": "^6.0.2",
+    "doiuse": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "perfectionist": "^2.4.0",
+    "postcss-debug": "^0.4.2",
+    "stylelint": "^8.4.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
